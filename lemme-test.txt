@@ -1,0 +1,85 @@
+veux	 vouloir
+désirerais vouloir
+désirer vouloir
+voudrais vouloir
+affiche  vouloir
+afficher  vouloir
+quel       vouloir
+quels 	   vouloir
+quelles    vouloir
+quelle 	   vouloir
+trouve	   vouloir
+mots 		mot
+traitant parler
+contient   parler
+concernent parler
+parle	   parler
+concerne   parler
+traitent   parler
+traite     parler
+citent     parler
+cite       parler
+sur 	   parler
+sujet      parler
+parlent    parler
+contiennent parler
+datent 	   dater
+titres      titre
+dater      dater
+date	   dater
+article   article
+bulletins article
+bulletin article
+documents article
+fichier	  article
+donne 	   vouloir
+images     image
+illustration image	
+illustrations image
+rubriques rubrique
+catégories  rubrique
+categorie   rubrique
+publié	    publier
+publiés	    publier
+écrit	    publier
+rapport	parler
+sujet	parler	
+contacter	contact
+contacts	contact	
+Donne	vouloir
+Récupère	vouloir
+cités		parler
+avec		contenir
+contenant       contenir
+possèdent		contenir
+possède		contenir
+auteurs 	auteur
+auteur 		auteur
+représentée representer
+emails	    email
+\t
+\r
+je
+ne
+qui
+dont
+du
+des
+de
+d
+l
+la
+le
+les
+sont
+moi
+au
+ont
+été
+ayant
+est
+t
+il
+existe
+on
+avoir

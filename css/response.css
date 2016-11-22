@@ -1,0 +1,62 @@
+
+.nameColumn {
+	color: #dd5;
+	text-transform: capitalize;
+}
+
+a{
+	text-decoration: none;
+	color: #FFBE00;
+}
+
+.advice{
+    border: 1px solid black;
+    padding: 10px;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align:center;
+}
+.advice.header{
+    font-weight:bold;
+}
+.info{
+    color: #34495e;
+    background-color: #5aa5d4;
+}
+.warning{
+color: #503f30;
+    background-color: #d48b57;
+}
+.error{
+    color: #443232;
+    background-color: #d86363;
+}
+.corpsReponse{
+	text-align:center;
+	width:60%;
+	margin:auto;
+	background-color:#ddd;
+}
+.reponseButton{
+	border: 1px solid black;
+    padding: 4px 15px;
+    border-radius: 3px;
+    margin-top: 4px;
+}
+html{
+	background-color:#eee;
+}
+
+table{
+	background-color:#eee;
+	color:black;
+	margin:auto;
+}
+td, th{
+	border:1px solid black;
+}
+td a, th a{
+	color:blue;!imporant
+}

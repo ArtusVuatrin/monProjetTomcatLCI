@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+
+.searchEngine {
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;	
+    width: 745px;
+}
+
+form {
+ 	display : block;
+}
+
+.input {
+	font-size: 20px;
+	height: 40px;
+	margin-left: auto;
+    margin-right: auto;
+    width: 641px;
+    border: 2px solid #dadada;
+    border-radius: 7px;
+}
+
+.input:focus { 
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+.button {
+	height: 54px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: large;
+	text-align: center;
+	border: none;
+	background-color: #ccc;
+}
+
+.button:hover {
+	background-color: #aaa;
+}
+
+.searchEngine .ask {
+	margin-left: auto;
+    margin-right: auto;	
+    width: 120px;
+    height: 120px;
+}
+.ask,h1{
+	display:inline-block;
+    vertical-align: middle;
+}
